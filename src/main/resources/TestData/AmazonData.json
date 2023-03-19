@@ -1,0 +1,13 @@
+{
+  "data": [
+
+    {
+      "presentOrNot": true,
+      "primeVideoSelection": "Prime Video",
+      "preSelectedOption": "All Categories",
+      "expectedPlaceHolderText": "Search Amazon.in",
+      "textToBewSearched": "KGF",
+      "placeHolderAttribute": "placeholder"
+    }
+  ]
+}

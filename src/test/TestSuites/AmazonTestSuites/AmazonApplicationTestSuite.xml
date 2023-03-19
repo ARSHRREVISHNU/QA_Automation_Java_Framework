@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon test suite">
+<test name="Amazon tests">
+<classes>
+    <class name="AmazonPages.LandingPage.LandingPageTest">
+        <methods>
+            <include name="landingPageLoadCheck"/>
+            <include name="dropdownPreSelectValuecheck"/>
+            <include name="placeHolderCheck"/>
+            <include name="primeVideoPageNavigationCheck"/>
+        </methods>
+    </class>
+</classes>
+</test>
+</suite>
