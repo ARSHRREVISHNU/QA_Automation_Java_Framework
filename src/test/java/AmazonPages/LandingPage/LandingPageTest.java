@@ -2,7 +2,6 @@ package AmazonPages.LandingPage;
 
 import AmazonPages.TestUtils;
 import Constants.FilePaths;
-import io.cucumber.java.ja.但し;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
